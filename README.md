@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0018-4sum) |
 | [0051-n-queens](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0051-n-queens) |
+| [0162-find-peak-element](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
