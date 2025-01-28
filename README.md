@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0018-4sum) |
+| [0051-n-queens](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
