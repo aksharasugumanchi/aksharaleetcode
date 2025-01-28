@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0018-4sum) |
 | [0051-n-queens](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0018-4sum) |
+| [0179-largest-number](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
