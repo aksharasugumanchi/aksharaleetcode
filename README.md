@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
