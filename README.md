@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0179-largest-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0036-valid-sudoku) |
 ## Linked List
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
