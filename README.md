@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0179-largest-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
