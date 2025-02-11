@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0057-insert-interval) |
 | [0162-find-peak-element](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aksharasugumanchi/aksharaleetcode/tree/master/0179-largest-number) |
 ## Hash Table
